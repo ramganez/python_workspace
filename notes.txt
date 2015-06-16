@@ -1,0 +1,18 @@
+## reading Chapter 4 
+
+Jun16-2015
+Multithread Programming
+    -in Computer pgm single sequence of steps that excuted in CPU synchronously
+    -but in MT(Multithread)
+        - single task divided into multiple sub tasks
+        - thread pgm to run thease tasks independently
+        - sub tasks do not affect other sub tasks results
+        - it improve the performance overall task
+    
+    -in Python thread module 
+        - just use the start_new_thread method
+        - start the sub tasks parallely 
+
+
+
+
